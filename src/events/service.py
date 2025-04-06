@@ -112,7 +112,7 @@ class Service:
                     "properties": {
                         "obsdatelocal": row.time.isoformat() if row.time else None,
                         "obsdateutc": row.time.isoformat() if row.time else None,
-                        "teamname_targetid": f"Mayday_{getattr(row, "targetID", 0)}", #if hasattr(row, "group_id") and row.group_id else None,
+                        "teamname_targetid": f"Mayday_{getattr(row, 'targetID', 0)}", #if hasattr(row, "group_id") and row.group_id else None,
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
                     "geometry": {
