@@ -1,9 +1,13 @@
 import json
+from zoneinfo import ZoneInfo
 from sqlmodel.ext.asyncio.session import AsyncSession
 from geoalchemy2.functions import ST_AsGeoJSON
 from sqlalchemy import select
 from sqlmodel import text
 import math
+
+from timezonefinder import TimezoneFinder
+tf = TimezoneFinder()
 class Service:
     async def leona(self, session: AsyncSession) -> dict:
         statement = """
@@ -17,8 +21,19 @@ class Service:
                 {
                     "type": "Feature",
                     "properties": {
-                        "obsdatelocal": row.time.isoformat() if row.time else None,
-                        "obsdateutc": row.time.isoformat() if row.time else None,
+                        "obsdatelocal": (
+                            row.time.astimezone(
+                                ZoneInfo(
+                                    tf.timezone_at(
+                                        lng=row.longitude,
+                                        lat=row.latitude
+                                    )
+                                )
+                            ).isoformat()
+                            if row.time and row.longitude is not None and row.latitude is not None else None
+                        ),
+                        "obsdateutc": row.time.astimezone(ZoneInfo("UTC")).isoformat() if row.time else None,
+                        
                         "teamname_targetid": getattr(row, 'team_targetid', None),
                         "frp": row.frp,
                     },
@@ -46,8 +61,18 @@ class Service:
                 {
                     "type": "Feature",
                     "properties": {
-                        "obsdatelocal": row.time.isoformat() if row.time else None,
-                        "obsdateutc": row.time.isoformat() if row.time else None,
+                        "obsdatelocal": (
+                            row.time.astimezone(
+                                ZoneInfo(
+                                    tf.timezone_at(
+                                        lng=row.longitude,
+                                        lat=row.latitude
+                                    )
+                                )
+                            ).isoformat()
+                            if row.time and row.longitude is not None and row.latitude is not None else None
+                        ),
+                        "obsdateutc": row.time.astimezone(ZoneInfo("UTC")).isoformat() if row.time else None,
                         "teamname_targetid": getattr(row, 'team_targetid', None),
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
@@ -77,8 +102,18 @@ class Service:
                 {
                     "type": "Feature",
                     "properties": {
-                        "obsdatelocal": row.start_time.isoformat() if row.start_time else None,
-                        "obsdateutc": row.last_time.isoformat() if row.last_time else None,
+                        "obsdatelocal": (
+                            row.start_time.astimezone(
+                                ZoneInfo(
+                                    tf.timezone_at(
+                                        lng=json.loads(row.geom)["coordinates"][0][0][0],
+                                        lat=json.loads(row.geom)["coordinates"][0][0][1]
+                                    )
+                                )
+                            ).isoformat()
+                            if row.start_time and row.geom else None
+                        ),
+                        "obsdateutc": row.start_time.astimezone(ZoneInfo("UTC")).isoformat() if row.start_time else None,
                         "teamname_targetid": getattr(row, 'team_targetid', None),  # Replace with dynamic value if needed
                         "burnedarea": getattr(row, "burnedarea", 0),
                         "obsdirection_n": getattr(row, "obsdirection_n", 0),
@@ -112,8 +147,18 @@ class Service:
                 {
                     "type": "Feature",
                     "properties": {
-                        "obsdatelocal": row.time.isoformat() if row.time else None,
-                        "obsdateutc": row.time.isoformat() if row.time else None,
+                        "obsdatelocal": (
+                            row.time.astimezone(
+                                ZoneInfo(
+                                    tf.timezone_at(
+                                        lng=row.longitude,
+                                        lat=row.latitude
+                                    )
+                                )
+                            ).isoformat()
+                            if row.time and row.longitude is not None and row.latitude is not None else None
+                        ),
+                        "obsdateutc": row.time.astimezone(ZoneInfo("UTC")).isoformat() if row.time else None,
                         "teamname_targetid": getattr(row, 'team_targetid', 0), #if hasattr(row, "group_id") and row.group_id else None,
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
