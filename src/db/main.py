@@ -8,13 +8,15 @@ from sqlmodel.ext.asyncio.session import AsyncSession
 from sshtunnel import SSHTunnelForwarder
 from config import config
 
-
+import os
 
 def start_tunnel():
+    ssh_key_path = os.path.abspath("bahawsuser\\bahawsuser.pem")
+    print(f"SSH Key Path: {ssh_key_path}")
     tunnel = SSHTunnelForwarder(
         (config.SSH_HOST, 22),
         ssh_username=config.SSH_USER,
-        ssh_pkey="G:\\bahawsuser\\bahawsuser.pem",
+        ssh_pkey="bahawsuser\\bahawsuser.pem", 
         remote_bind_address=(config.REMOTE_DB_HOST, config.REMOTE_DB_PORT),
         local_bind_address=("localhost", config.LOCAL_PORT)
     )
