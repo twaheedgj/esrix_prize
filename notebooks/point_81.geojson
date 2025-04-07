@@ -1,0 +1,5020 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-08T13:28:00-07:00",
+        "obsdateutc": "2024-04-08T20:28:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32447,
+          40.24682
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-08T14:16:00-07:00",
+        "obsdateutc": "2024-04-08T21:16:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32854,
+          40.24694
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-08T14:43:00-07:00",
+        "obsdateutc": "2024-04-08T21:43:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32629,
+          40.2454
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-09T13:09:00-07:00",
+        "obsdateutc": "2024-04-09T20:09:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 2.85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32514,
+          40.24524
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-09T13:57:00-07:00",
+        "obsdateutc": "2024-04-09T20:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 13.91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11196,
+          41.39523
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-10T14:31:00-07:00",
+        "obsdateutc": "2024-04-10T21:31:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32492,
+          40.24459
+        ]
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-11T14:12:00-07:00",
+        "obsdateutc": "2024-04-11T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 5.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12202,
+          41.42086
+        ]
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-11T15:01:00-07:00",
+        "obsdateutc": "2024-04-11T22:01:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 22.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11864,
+          41.42609
+        ]
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-11T15:01:00-07:00",
+        "obsdateutc": "2024-04-11T22:01:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11799,
+          41.42628
+        ]
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T02:05:00-07:00",
+        "obsdateutc": "2024-04-12T09:05:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12291,
+          41.42589
+        ]
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T02:05:00-07:00",
+        "obsdateutc": "2024-04-12T09:05:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12328,
+          41.42027
+        ]
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T02:30:00-07:00",
+        "obsdateutc": "2024-04-12T09:30:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1186,
+          41.4239
+        ]
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T03:19:00-07:00",
+        "obsdateutc": "2024-04-12T10:19:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11906,
+          41.42284
+        ]
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T03:45:00-07:00",
+        "obsdateutc": "2024-04-12T10:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12286,
+          41.42435
+        ]
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T03:45:00-07:00",
+        "obsdateutc": "2024-04-12T10:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11858,
+          41.42315
+        ]
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T03:45:00-07:00",
+        "obsdateutc": "2024-04-12T10:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1199,
+          41.42514
+        ]
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-12T13:53:00-07:00",
+        "obsdateutc": "2024-04-12T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 2.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32584,
+          40.24857
+        ]
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-15T11:38:00-07:00",
+        "obsdateutc": "2024-04-15T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.579697,
+          40.52388
+        ]
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-18T13:16:00-07:00",
+        "obsdateutc": "2024-04-18T20:16:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32442,
+          40.24859
+        ]
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-22T13:41:00-07:00",
+        "obsdateutc": "2024-04-22T20:41:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 7.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77016,
+          40.24134
+        ]
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-22T13:41:00-07:00",
+        "obsdateutc": "2024-04-22T20:41:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77631,
+          40.2401
+        ]
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-22T14:07:00-07:00",
+        "obsdateutc": "2024-04-22T21:07:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77135,
+          40.23952
+        ]
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-22T14:07:00-07:00",
+        "obsdateutc": "2024-04-22T21:07:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77586,
+          40.23888
+        ]
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-22T14:33:00-07:00",
+        "obsdateutc": "2024-04-22T21:33:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.777,
+          40.2352
+        ]
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T13:22:00-07:00",
+        "obsdateutc": "2024-04-23T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 8.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77985,
+          40.24163
+        ]
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T13:48:00-07:00",
+        "obsdateutc": "2024-04-23T20:48:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 19.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77976,
+          40.24255
+        ]
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T13:48:00-07:00",
+        "obsdateutc": "2024-04-23T20:48:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 19.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7785,
+          40.2391
+        ]
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T14:36:00-07:00",
+        "obsdateutc": "2024-04-23T21:36:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78162,
+          40.24247
+        ]
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T14:36:00-07:00",
+        "obsdateutc": "2024-04-23T21:36:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 16.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77572,
+          40.23837
+        ]
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-04-23T15:02:00-07:00",
+        "obsdateutc": "2024-04-23T22:02:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77847,
+          40.24124
+        ]
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-01T11:38:00-07:00",
+        "obsdateutc": "2024-05-01T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.483981,
+          40.268233
+        ]
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36826,
+          40.80397
+        ]
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36992,
+          40.80812
+        ]
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36468,
+          40.80933
+        ]
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37163,
+          40.81227
+        ]
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36637,
+          40.81347
+        ]
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 18.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37685,
+          40.81107
+        ]
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 13.34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37336,
+          40.8164
+        ]
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:27:00-07:00",
+        "obsdateutc": "2024-05-02T20:27:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 7.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37859,
+          40.8152
+        ]
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36675,
+          40.80614
+        ]
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37138,
+          40.80537
+        ]
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36772,
+          40.80946
+        ]
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36306,
+          40.81024
+        ]
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37237,
+          40.80868
+        ]
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36869,
+          40.81277
+        ]
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37335,
+          40.812
+        ]
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36404,
+          40.81355
+        ]
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 16.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36967,
+          40.81608
+        ]
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 16.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36503,
+          40.81686
+        ]
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-02T13:53:00-07:00",
+        "obsdateutc": "2024-05-02T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 11.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37432,
+          40.81531
+        ]
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-11T13:10:00-07:00",
+        "obsdateutc": "2024-05-11T20:10:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49918,
+          41.22166
+        ]
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T11:17:00-07:00",
+        "obsdateutc": "2024-05-13T18:17:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 22.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7839,
+          40.2662
+        ]
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T13:47:00-07:00",
+        "obsdateutc": "2024-05-13T20:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78773,
+          40.26385
+        ]
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T13:47:00-07:00",
+        "obsdateutc": "2024-05-13T20:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 15.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79301,
+          40.26285
+        ]
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T14:12:00-07:00",
+        "obsdateutc": "2024-05-13T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 23.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79408,
+          40.26124
+        ]
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T14:12:00-07:00",
+        "obsdateutc": "2024-05-13T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 5.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78929,
+          40.26186
+        ]
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-13T15:01:00-07:00",
+        "obsdateutc": "2024-05-13T22:01:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79369,
+          40.26051
+        ]
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-14T03:45:00-07:00",
+        "obsdateutc": "2024-05-14T10:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 0.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.13852,
+          40.65585
+        ]
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T02:12:00-07:00",
+        "obsdateutc": "2024-05-15T09:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 0.92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28793,
+          41.21003
+        ]
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T02:12:00-07:00",
+        "obsdateutc": "2024-05-15T09:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 0.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28822,
+          41.21356
+        ]
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T03:00:00-07:00",
+        "obsdateutc": "2024-05-15T10:00:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28651,
+          41.20984
+        ]
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T03:26:00-07:00",
+        "obsdateutc": "2024-05-15T10:26:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28449,
+          41.21029
+        ]
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T14:25:00-07:00",
+        "obsdateutc": "2024-05-15T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28706,
+          41.20781
+        ]
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-15T14:50:00-07:00",
+        "obsdateutc": "2024-05-15T21:50:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2844,
+          41.20807
+        ]
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-16T14:57:00-07:00",
+        "obsdateutc": "2024-05-16T21:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 29.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33129,
+          41.21623
+        ]
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-16T14:57:00-07:00",
+        "obsdateutc": "2024-05-16T21:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 29.66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34053,
+          41.21608
+        ]
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-16T14:57:00-07:00",
+        "obsdateutc": "2024-05-16T21:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 44.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33135,
+          41.22059
+        ]
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-16T14:57:00-07:00",
+        "obsdateutc": "2024-05-16T21:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33234,
+          41.2142
+        ]
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34221,
+          41.21227
+        ]
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 156.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33191,
+          41.22169
+        ]
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 93.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34494,
+          41.21786
+        ]
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 156.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33633,
+          41.22039
+        ]
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 93.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34058,
+          41.21914
+        ]
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 156.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33956,
+          41.22585
+        ]
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 93.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34389,
+          41.22458
+        ]
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 149.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33073,
+          41.22052
+        ]
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 118.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33941,
+          41.21792
+        ]
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 118.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34375,
+          41.21663
+        ]
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 149.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3337,
+          41.22605
+        ]
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 118.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34695,
+          41.2221
+        ]
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T12:57:00-07:00",
+        "obsdateutc": "2024-05-17T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 149.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33826,
+          41.22469
+        ]
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33702,
+          41.21841
+        ]
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 31.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34625,
+          41.21679
+        ]
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 31.84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34161,
+          41.21761
+        ]
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 72.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33807,
+          41.22173
+        ]
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 72.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33345,
+          41.22254
+        ]
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 21.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34729,
+          41.22012
+        ]
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 21.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34266,
+          41.22093
+        ]
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 72.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33915,
+          41.22505
+        ]
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T13:46:00-07:00",
+        "obsdateutc": "2024-05-17T20:46:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 21.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34374,
+          41.22425
+        ]
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:12:00-07:00",
+        "obsdateutc": "2024-05-17T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 34.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33804,
+          41.21846
+        ]
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:12:00-07:00",
+        "obsdateutc": "2024-05-17T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 23.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34397,
+          41.21778
+        ]
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:12:00-07:00",
+        "obsdateutc": "2024-05-17T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 13.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34456,
+          41.22141
+        ]
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:12:00-07:00",
+        "obsdateutc": "2024-05-17T21:12:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 93.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33865,
+          41.22209
+        ]
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:38:00-07:00",
+        "obsdateutc": "2024-05-17T21:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 32.69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33877,
+          41.21699
+        ]
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T14:38:00-07:00",
+        "obsdateutc": "2024-05-17T21:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 35.93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33863,
+          41.22203
+        ]
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-17T15:14:00-07:00",
+        "obsdateutc": "2024-05-17T22:14:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 61.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3496,
+          41.216
+        ]
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T11:23:00-07:00",
+        "obsdateutc": "2024-05-18T18:23:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 13.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3608,
+          41.2269
+        ]
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T11:23:00-07:00",
+        "obsdateutc": "2024-05-18T18:23:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 29.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.349,
+          41.2251
+        ]
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:25:00-07:00",
+        "obsdateutc": "2024-05-18T20:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35059,
+          41.22933
+        ]
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:25:00-07:00",
+        "obsdateutc": "2024-05-18T20:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35501,
+          41.22835
+        ]
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:53:00-07:00",
+        "obsdateutc": "2024-05-18T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 5.91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13127,
+          40.29587
+        ]
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:53:00-07:00",
+        "obsdateutc": "2024-05-18T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13222,
+          40.29919
+        ]
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:53:00-07:00",
+        "obsdateutc": "2024-05-18T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34909,
+          41.22968
+        ]
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T13:53:00-07:00",
+        "obsdateutc": "2024-05-18T20:53:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35363,
+          41.22897
+        ]
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T14:17:00-07:00",
+        "obsdateutc": "2024-05-18T21:17:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 15.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3567,
+          41.2283
+        ]
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T14:18:00-07:00",
+        "obsdateutc": "2024-05-18T21:18:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 7.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13094,
+          40.29789
+        ]
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T14:19:00-07:00",
+        "obsdateutc": "2024-05-18T21:19:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35619,
+          41.22814
+        ]
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-18T14:19:00-07:00",
+        "obsdateutc": "2024-05-18T21:19:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34949,
+          41.22881
+        ]
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T11:45:00-07:00",
+        "obsdateutc": "2024-05-21T18:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 31.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.346,
+          41.2261
+        ]
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T11:45:00-07:00",
+        "obsdateutc": "2024-05-21T18:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 22.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.351,
+          41.215
+        ]
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T11:45:00-07:00",
+        "obsdateutc": "2024-05-21T18:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 58.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3295,
+          41.2105
+        ]
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T12:57:00-07:00",
+        "obsdateutc": "2024-05-21T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 20.26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33061,
+          41.21345
+        ]
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T12:57:00-07:00",
+        "obsdateutc": "2024-05-21T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 80.56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33356,
+          41.21905
+        ]
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T12:57:00-07:00",
+        "obsdateutc": "2024-05-21T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 28.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33794,
+          41.21775
+        ]
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T12:57:00-07:00",
+        "obsdateutc": "2024-05-21T19:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 28.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34107,
+          41.2233
+        ]
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T13:22:00-07:00",
+        "obsdateutc": "2024-05-21T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33228,
+          41.21281
+        ]
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T13:22:00-07:00",
+        "obsdateutc": "2024-05-21T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 36.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33405,
+          41.217
+        ]
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T13:22:00-07:00",
+        "obsdateutc": "2024-05-21T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 18.53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33878,
+          41.21591
+        ]
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T13:22:00-07:00",
+        "obsdateutc": "2024-05-21T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 18.53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3406,
+          41.22009
+        ]
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T13:22:00-07:00",
+        "obsdateutc": "2024-05-21T20:22:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 36.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33588,
+          41.22116
+        ]
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:10:00-07:00",
+        "obsdateutc": "2024-05-21T21:10:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 10.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34145,
+          41.21969
+        ]
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:10:00-07:00",
+        "obsdateutc": "2024-05-21T21:10:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 10.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33566,
+          41.22038
+        ]
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:10:00-07:00",
+        "obsdateutc": "2024-05-21T21:10:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 10.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33501,
+          41.21681
+        ]
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:37:00-07:00",
+        "obsdateutc": "2024-05-21T21:37:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3303,
+          41.21552
+        ]
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:37:00-07:00",
+        "obsdateutc": "2024-05-21T21:37:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33926,
+          41.21997
+        ]
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T14:41:00-07:00",
+        "obsdateutc": "2024-05-21T21:41:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 18.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3373,
+          41.2118
+        ]
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-21T15:03:00-07:00",
+        "obsdateutc": "2024-05-21T22:03:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 7.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33575,
+          41.21668
+        ]
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 84.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33537,
+          41.22925
+        ]
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 84.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33146,
+          41.22307
+        ]
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 84.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33742,
+          41.22109
+        ]
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 86.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34303,
+          41.21922
+        ]
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 85.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33369,
+          41.21484
+        ]
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 162.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33535,
+          41.22601
+        ]
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 62.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34307,
+          41.21602
+        ]
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 40.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33161,
+          41.21977
+        ]
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 62.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33735,
+          41.21789
+        ]
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T12:45:00-07:00",
+        "obsdateutc": "2024-05-23T19:45:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 62.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33367,
+          41.21162
+        ]
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34048,
+          41.22459
+        ]
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 203.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34316,
+          41.21613
+        ]
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 203.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33762,
+          41.21726
+        ]
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33623,
+          41.21358
+        ]
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 32.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34408,
+          41.2281
+        ]
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 32.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3384,
+          41.22927
+        ]
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 32.97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34254,
+          41.22446
+        ]
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 178.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34106,
+          41.2208
+        ]
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 66.41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34528,
+          41.21597
+        ]
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 178.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33416,
+          41.21827
+        ]
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 178.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33968,
+          41.21712
+        ]
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34196,
+          41.22826
+        ]
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:34:00-07:00",
+        "obsdateutc": "2024-05-23T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 203.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.339,
+          41.22094
+        ]
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 39.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33654,
+          41.21384
+        ]
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 39.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33736,
+          41.21714
+        ]
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 39.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34202,
+          41.21648
+        ]
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34283,
+          41.21978
+        ]
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33817,
+          41.22045
+        ]
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33897,
+          41.22376
+        ]
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 38.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34363,
+          41.22309
+        ]
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33977,
+          41.22707
+        ]
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T13:59:00-07:00",
+        "obsdateutc": "2024-05-23T20:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34444,
+          41.2264
+        ]
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33161,
+          41.21549
+        ]
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 27.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33743,
+          41.21498
+        ]
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 27.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34311,
+          41.21448
+        ]
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 41.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34357,
+          41.2187
+        ]
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 41.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33777,
+          41.2192
+        ]
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 41.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33807,
+          41.22344
+        ]
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 41.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34386,
+          41.22293
+        ]
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33837,
+          41.22767
+        ]
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-23T14:25:00-07:00",
+        "obsdateutc": "2024-05-23T21:25:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 3.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34396,
+          41.22718
+        ]
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-24T11:44:00-07:00",
+        "obsdateutc": "2024-05-24T18:44:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.077096,
+          40.530936
+        ]
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-24T11:44:00-07:00",
+        "obsdateutc": "2024-05-24T18:44:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.07675,
+          40.53066
+        ]
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-24T14:06:00-07:00",
+        "obsdateutc": "2024-05-24T21:06:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34217,
+          41.2187
+        ]
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-24T14:06:00-07:00",
+        "obsdateutc": "2024-05-24T21:06:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.34285,
+          41.22213
+        ]
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-24T14:06:00-07:00",
+        "obsdateutc": "2024-05-24T21:06:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33631,
+          41.21595
+        ]
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-31T13:34:00-07:00",
+        "obsdateutc": "2024-05-31T20:34:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 5.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51791,
+          40.96845
+        ]
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-05-31T14:56:00-07:00",
+        "obsdateutc": "2024-05-31T21:56:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5085,
+          40.9474
+        ]
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-01T10:59:00-07:00",
+        "obsdateutc": "2024-06-01T17:59:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 14.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5025,
+          40.9133
+        ]
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50732,
+          40.913006
+        ]
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507306,
+          40.912737
+        ]
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507277,
+          40.912197
+        ]
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507078,
+          40.915175
+        ]
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507064,
+          40.914905
+        ]
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50705,
+          40.914636
+        ]
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507036,
+          40.914366
+        ]
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507021,
+          40.914096
+        ]
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507007,
+          40.913826
+        ]
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506993,
+          40.913557
+        ]
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506979,
+          40.913287
+        ]
+      },
+      "id": 188
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506964,
+          40.913017
+        ]
+      },
+      "id": 189
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50695,
+          40.912747
+        ]
+      },
+      "id": 190
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506936,
+          40.912478
+        ]
+      },
+      "id": 191
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506921,
+          40.912208
+        ]
+      },
+      "id": 192
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506652,
+          40.913837
+        ]
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506637,
+          40.913568
+        ]
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506623,
+          40.913298
+        ]
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506609,
+          40.913028
+        ]
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506594,
+          40.912758
+        ]
+      },
+      "id": 197
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50658,
+          40.912489
+        ]
+      },
+      "id": 198
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506552,
+          40.911949
+        ]
+      },
+      "id": 199
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506324,
+          40.914388
+        ]
+      },
+      "id": 200
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50631,
+          40.914118
+        ]
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506296,
+          40.913848
+        ]
+      },
+      "id": 202
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506282,
+          40.913578
+        ]
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506267,
+          40.913309
+        ]
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506253,
+          40.913039
+        ]
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506239,
+          40.912769
+        ]
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50621,
+          40.91223
+        ]
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.506196,
+          40.91196
+        ]
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505997,
+          40.914938
+        ]
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505983,
+          40.914668
+        ]
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505969,
+          40.914398
+        ]
+      },
+      "id": 211
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505955,
+          40.914129
+        ]
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50594,
+          40.913859
+        ]
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505926,
+          40.913589
+        ]
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505912,
+          40.913319
+        ]
+      },
+      "id": 215
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505883,
+          40.91278
+        ]
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505869,
+          40.91251
+        ]
+      },
+      "id": 217
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505855,
+          40.91224
+        ]
+      },
+      "id": 218
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505656,
+          40.915218
+        ]
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505642,
+          40.914949
+        ]
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505628,
+          40.914679
+        ]
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505613,
+          40.914409
+        ]
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505599,
+          40.914139
+        ]
+      },
+      "id": 223
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505585,
+          40.91387
+        ]
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505571,
+          40.9136
+        ]
+      },
+      "id": 225
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505556,
+          40.91333
+        ]
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505542,
+          40.91306
+        ]
+      },
+      "id": 227
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505528,
+          40.912791
+        ]
+      },
+      "id": 228
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505243,
+          40.91415
+        ]
+      },
+      "id": 229
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505229,
+          40.913881
+        ]
+      },
+      "id": 230
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505215,
+          40.913611
+        ]
+      },
+      "id": 231
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.518458,
+          40.955085
+        ]
+      },
+      "id": 232
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.518444,
+          40.954815
+        ]
+      },
+      "id": 233
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.509439,
+          40.912672
+        ]
+      },
+      "id": 234
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.509098,
+          40.912952
+        ]
+      },
+      "id": 235
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.509083,
+          40.912682
+        ]
+      },
+      "id": 236
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508799,
+          40.914042
+        ]
+      },
+      "id": 237
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508785,
+          40.913772
+        ]
+      },
+      "id": 238
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508771,
+          40.913503
+        ]
+      },
+      "id": 239
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508756,
+          40.913233
+        ]
+      },
+      "id": 240
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508742,
+          40.912963
+        ]
+      },
+      "id": 241
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508472,
+          40.914592
+        ]
+      },
+      "id": 242
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508458,
+          40.914323
+        ]
+      },
+      "id": 243
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508444,
+          40.914053
+        ]
+      },
+      "id": 244
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508429,
+          40.913783
+        ]
+      },
+      "id": 245
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508415,
+          40.913513
+        ]
+      },
+      "id": 246
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508131,
+          40.914873
+        ]
+      },
+      "id": 247
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508117,
+          40.914603
+        ]
+      },
+      "id": 248
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508102,
+          40.914333
+        ]
+      },
+      "id": 249
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508088,
+          40.914064
+        ]
+      },
+      "id": 250
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508074,
+          40.913794
+        ]
+      },
+      "id": 251
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50806,
+          40.913524
+        ]
+      },
+      "id": 252
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508045,
+          40.913254
+        ]
+      },
+      "id": 253
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.508031,
+          40.912985
+        ]
+      },
+      "id": 254
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507988,
+          40.912175
+        ]
+      },
+      "id": 255
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50779,
+          40.915153
+        ]
+      },
+      "id": 256
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507775,
+          40.914884
+        ]
+      },
+      "id": 257
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507761,
+          40.914614
+        ]
+      },
+      "id": 258
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507747,
+          40.914344
+        ]
+      },
+      "id": 259
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507733,
+          40.914075
+        ]
+      },
+      "id": 260
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507718,
+          40.913805
+        ]
+      },
+      "id": 261
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507704,
+          40.913535
+        ]
+      },
+      "id": 262
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50769,
+          40.913265
+        ]
+      },
+      "id": 263
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507675,
+          40.912996
+        ]
+      },
+      "id": 264
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507633,
+          40.912186
+        ]
+      },
+      "id": 265
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507434,
+          40.915164
+        ]
+      },
+      "id": 266
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50742,
+          40.914895
+        ]
+      },
+      "id": 267
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507405,
+          40.914625
+        ]
+      },
+      "id": 268
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507391,
+          40.914355
+        ]
+      },
+      "id": 269
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507377,
+          40.914085
+        ]
+      },
+      "id": 270
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507363,
+          40.913816
+        ]
+      },
+      "id": 271
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507348,
+          40.913546
+        ]
+      },
+      "id": 272
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T11:38:00-07:00",
+        "obsdateutc": "2024-06-18T18:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.507334,
+          40.913276
+        ]
+      },
+      "id": 273
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T14:11:00-07:00",
+        "obsdateutc": "2024-06-18T21:11:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 4.31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51241,
+          40.95155
+        ]
+      },
+      "id": 274
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-18T14:36:00-07:00",
+        "obsdateutc": "2024-06-18T21:36:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 2.31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51553,
+          40.95215
+        ]
+      },
+      "id": 275
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-22T14:36:00-07:00",
+        "obsdateutc": "2024-06-22T21:36:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.17068,
+          41.47807
+        ]
+      },
+      "id": 276
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-06-22T14:36:00-07:00",
+        "obsdateutc": "2024-06-22T21:36:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 15.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1711,
+          41.478
+        ]
+      },
+      "id": 277
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-07T21:41:00-07:00",
+        "obsdateutc": "2024-07-08T04:41:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 27.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3785,
+          41.2623
+        ]
+      },
+      "id": 278
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T01:57:00-07:00",
+        "obsdateutc": "2024-07-08T08:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 2.52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37778,
+          41.2592
+        ]
+      },
+      "id": 279
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T01:57:00-07:00",
+        "obsdateutc": "2024-07-08T08:57:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37881,
+          41.2642
+        ]
+      },
+      "id": 280
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T02:47:00-07:00",
+        "obsdateutc": "2024-07-08T09:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37411,
+          41.25635
+        ]
+      },
+      "id": 281
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T02:47:00-07:00",
+        "obsdateutc": "2024-07-08T09:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37331,
+          41.2597
+        ]
+      },
+      "id": 282
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T02:47:00-07:00",
+        "obsdateutc": "2024-07-08T09:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37815,
+          41.26038
+        ]
+      },
+      "id": 283
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T02:47:00-07:00",
+        "obsdateutc": "2024-07-08T09:47:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 0.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.38216,
+          41.2644
+        ]
+      },
+      "id": 284
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T03:13:00-07:00",
+        "obsdateutc": "2024-07-08T10:13:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37883,
+          41.26107
+        ]
+      },
+      "id": 285
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T03:13:00-07:00",
+        "obsdateutc": "2024-07-08T10:13:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37359,
+          41.26005
+        ]
+      },
+      "id": 286
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T03:13:00-07:00",
+        "obsdateutc": "2024-07-08T10:13:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 0.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3748,
+          41.25652
+        ]
+      },
+      "id": 287
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T03:38:00-07:00",
+        "obsdateutc": "2024-07-08T10:38:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 1.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37553,
+          41.26138
+        ]
+      },
+      "id": 288
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T12:56:00-07:00",
+        "obsdateutc": "2024-07-08T19:56:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.36929,
+          41.25842
+        ]
+      },
+      "id": 289
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T12:56:00-07:00",
+        "obsdateutc": "2024-07-08T19:56:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3701,
+          41.25499
+        ]
+      },
+      "id": 290
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T12:56:00-07:00",
+        "obsdateutc": "2024-07-08T19:56:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 6.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37368,
+          41.26044
+        ]
+      },
+      "id": 291
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T14:33:00-07:00",
+        "obsdateutc": "2024-07-08T21:33:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 16.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3754,
+          41.253
+        ]
+      },
+      "id": 292
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T14:37:00-07:00",
+        "obsdateutc": "2024-07-08T21:37:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 37.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.36904,
+          41.25742
+        ]
+      },
+      "id": 293
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T15:01:00-07:00",
+        "obsdateutc": "2024-07-08T22:01:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 9.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.36835,
+          41.25208
+        ]
+      },
+      "id": 294
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "obsdatelocal": "2024-07-08T15:01:00-07:00",
+        "obsdateutc": "2024-07-08T22:01:00+00:00",
+        "teamname_targetid": 0,
+        "frp": 12.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.36677,
+          41.2542
+        ]
+      },
+      "id": 295
+    }
+  ]
+}
