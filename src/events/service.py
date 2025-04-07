@@ -19,6 +19,7 @@ class Service:
                     "properties": {
                         "obsdatelocal": row.time.isoformat() if row.time else None,
                         "obsdateutc": row.time.isoformat() if row.time else None,
+                        "teamname_targetid": getattr(row, 'team_targetid', None),
                         "frp": row.frp,
                     },
                     "geometry": {
@@ -47,6 +48,7 @@ class Service:
                     "properties": {
                         "obsdatelocal": row.time.isoformat() if row.time else None,
                         "obsdateutc": row.time.isoformat() if row.time else None,
+                        "teamname_targetid": getattr(row, 'team_targetid', None),
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
                     "geometry": {
@@ -77,7 +79,7 @@ class Service:
                     "properties": {
                         "obsdatelocal": row.start_time.isoformat() if row.start_time else None,
                         "obsdateutc": row.last_time.isoformat() if row.last_time else None,
-                        "teamname_targetid": f"Mayday_{getattr(row, 'targetid', None)}",  # Replace with dynamic value if needed
+                        "teamname_targetid": getattr(row, 'team_targetid', None),  # Replace with dynamic value if needed
                         "burnedarea": getattr(row, "burnedarea", 0),
                         "obsdirection_n": getattr(row, "obsdirection_n", 0),
                         "obsdirection_e": getattr(row, "obsdirection_e", 0),
@@ -112,7 +114,7 @@ class Service:
                     "properties": {
                         "obsdatelocal": row.time.isoformat() if row.time else None,
                         "obsdateutc": row.time.isoformat() if row.time else None,
-                        "teamname_targetid": f"Mayday_{getattr(row, 'targetID', 0)}", #if hasattr(row, "group_id") and row.group_id else None,
+                        "teamname_targetid": getattr(row, 'team_targetid', 0), #if hasattr(row, "group_id") and row.group_id else None,
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
                     "geometry": {
