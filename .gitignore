@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# SSH keys
+*.pem
+
+# Environment variables
+.env
+
+# SQLAlchemy database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+*.pytest_cache/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
