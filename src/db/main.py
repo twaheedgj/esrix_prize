@@ -11,7 +11,7 @@ from config import config
 import os
 
 def start_tunnel():
-    ssh_key_path = os.path.abspath("bahawsuser\\bahawsuser.pem")
+    ssh_key_path = os.path.abspath("bahawsuser/bahawsuser.pem")
     print(f"SSH Key Path: {ssh_key_path}")
     tunnel = SSHTunnelForwarder(
         (config.SSH_HOST, 22),
