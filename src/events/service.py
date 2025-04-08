@@ -187,7 +187,7 @@ class Service:
         }
         return response
     def csv_to_geojson(self,df: pd.DataFrame) -> dict:
-        df.columns = gdf.columns.str.upper()
+        df.columns = df.columns.str.upper()
         df["TIME"]= pd.to_datetime(df["TIME"], errors="coerce", utc=True)
         df["obsdatelocal"] = df.apply(
             lambda row: row["TIME"].astimezone(
