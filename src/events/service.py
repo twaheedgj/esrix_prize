@@ -43,11 +43,11 @@ class Service:
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
                     "geometry": {
-                        "type": "Point",
                         "coordinates": [
                             row.longitude if row.longitude is not None and not math.isnan(row.longitude) else None,
                             row.latitude if row.latitude is not None and not math.isnan(row.latitude) else None,
-                        ],  # Longitude first, then latitude
+                        ],
+                        "type": "Point",    # Longitude first, then latitude
                     },
                     "id": idx  # Add unique ID
                 }
@@ -174,11 +174,11 @@ class Service:
                         "frp": row.frp if row.frp is not None and not math.isnan(row.frp) else None,
                     },
                     "geometry": {
-                        "type": "Point",
                         "coordinates": [
                             row.longitude if row.longitude is not None and not math.isnan(row.longitude) else None,
                             row.latitude if row.latitude is not None and not math.isnan(row.latitude) else None,
                         ],
+                        "type": "Point",
                     },
                     "id": idx  # Add unique ID
                 }
@@ -211,8 +211,8 @@ class Service:
                     "frp": row["FRP"] if pd.notnull(row["FRP"]) and not math.isnan(row["FRP"]) else None,
                 },
                 "geometry": {
-                    "type": "Point",
                     "coordinates": [row["LONGITUDE"], row["LATITUDE"]],
+                    "type": "Point",
                 },
                 "id": int(idx) + 1
             }
@@ -249,7 +249,6 @@ class Service:
         features = [
             {
                 "type": "Feature",
-                "id": idx + 1,
                 "properties": {
                     "obsdatelocal": row["obsdatelocal"],
                     "obsdateutc": row["START_TIME"],
@@ -266,6 +265,7 @@ class Service:
                     "intensity": row.get("INTENSITY", 0),
                 },
                 "geometry": row["geometry"],
+                "id": idx + 1
             }
             for idx, row in gdf.iterrows()
         ]
